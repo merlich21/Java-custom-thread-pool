@@ -136,4 +136,4 @@ public class CustomThreadPoolTest {
             logger.info("[Task] Задача с вложенными задачами завершена");
         });
     }
-} 
+}
